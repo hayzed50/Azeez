@@ -1,2 +1,0 @@
-# Makinde
-Web Development
